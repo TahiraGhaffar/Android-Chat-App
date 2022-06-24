@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/THAIRA/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_main.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/THAIRA/AndroidStudioProjects/ChatApp/app/src/main/res/layout/receive.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/THAIRA/AndroidStudioProjects/ChatApp/app/src/main/res/layout/user_layout.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/zain ul abdean/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/btn_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/zain ul abdean/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/edt_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/zain ul abdean/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/message_box_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/zain ul abdean/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/receive_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/zain ul abdean/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_chat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/zain ul abdean/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_chat2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/zain ul abdean/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/zain ul abdean/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_main.xml" value="0.10891089108910891" />
+        <entry key="..\:/Users/zain ul abdean/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_sign_up.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/zain ul abdean/AndroidStudioProjects/ChatApp/app/src/main/res/layout/receive.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/zain ul abdean/AndroidStudioProjects/ChatApp/app/src/main/res/layout/sent.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/zain ul abdean/AndroidStudioProjects/ChatApp/app/src/main/res/layout/user_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/zain ul abdean/AndroidStudioProjects/ChatApp/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
